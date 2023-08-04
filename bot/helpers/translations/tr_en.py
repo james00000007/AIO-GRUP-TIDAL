@@ -7,9 +7,9 @@ class EN(object):
 #
 #----------------
     WELCOME_MSG = "Hello {} Sir"
-    START_DOWNLOAD = "Starting to download..........."
+    START_DOWNLOAD = "𝘗𝘭𝘦𝘢𝘴𝘦 𝘞𝘢𝘪𝘵...."
     ANTI_SPAM_WAIT = "Wait for the current task to complete!"
-    TASK_COMPLETED = "Download Finished"   
+    TASK_COMPLETED = "ᴅᴏᴡɴʟᴏᴀᴅ ᴄᴏᴍᴘʟᴇᴛᴇᴅ\n@jalan_tikuz"   
     SONG_COPY_EXIST = 'Song already downloaded exist'
     SONG_COPY_EXIST_INFO = """
 <b>ITEM NO - {}</b>
@@ -56,7 +56,7 @@ Quality : {}
 ● <b>ᴀʟʙᴜᴍ :</b> <i>{title}</i>
 ● <b>ᴀʀᴛɪꜱᴛ :</b> <i>{artist}</i>
 ● <b>ʀᴇʟᴇᴀꜱᴇ :</b> <i>{date}</i>
-● <b>ᴛᴏᴛᴀʟ ᴛʀᴀᴄᴋꜱ : <i></b> {totaltracks}</i>
+● <b>ᴛᴏᴛᴀʟ ᴛʀᴀᴄᴋꜱ : <i></b>{totaltracks}</i>
 ● <b>Qᴜᴀʟɪᴛʏ :</b> <i>{quality}</i>
 ● <b>ᴘʟᴀᴛꜰᴏʀᴍ :</b> <i>{provider}</i>
 """
