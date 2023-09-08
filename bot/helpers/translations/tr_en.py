@@ -7,8 +7,8 @@ class EN(object):
 #
 #----------------
     WELCOME_MSG = "Hello {} Sir"
-    START_DOWNLOAD = "𝘗𝘭𝘦𝘢𝘴𝘦 𝘞𝘢𝘪𝘵...."
-    ANTI_SPAM_WAIT = "Wait for the current task to complete!"
+    START_DOWNLOAD = "Please wait...."
+    ANTI_SPAM_WAIT = "Wait for the current task to complete..!"
     TASK_COMPLETED = "ᴅᴏᴡɴʟᴏᴀᴅ ᴄᴏᴍᴘʟᴇᴛᴇᴅ\n@jalan_tikuz"   
     SONG_COPY_EXIST = 'Song already downloaded exist'
     SONG_COPY_EXIST_INFO = """
