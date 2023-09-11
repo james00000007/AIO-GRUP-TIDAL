@@ -41,7 +41,7 @@ Quality : {}
     # DEEZER
     DEEZER_NOT_AUTH = "Deezer credentials not provided"
     # QOBUZ
-    QOBUZ_NOT_AUTH = "Qobuz credentials not provided"
+    QOBUZ_NOT_AUTH = "Ripping Qobuz Here @qobuzz"
     # SPOTIFY
     SPOTIFY_NOT_AUTH = "Spotify credentials not provided"
 
