@@ -163,7 +163,7 @@ async def check_quality(raw_meta, type='track'):
             for restriction in restrictions
         ):
             quality_met = False
-    quality = f'{new_track_dict["bit_depth"]}B - {new_track_dict["sampling_rate"]}k'
+    quality = f'{new_track_dict["bit_depth"]}Bit - {new_track_dict["sampling_rate"]}kHz'
     return "flac", quality
 
 async def get_artist(data, type):
